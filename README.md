@@ -11,5 +11,6 @@ Specifikációk:
 3. Jogkörök, ADMIN, USER, ANONYMUS, és az alapján megszabott jogok. Csak admin nézheti meg a rendeléseket, és csak USER rendelhet.
 4. Kosár felület, az alapműveletekkel együtt. Termék mennyiségének változtatatása, vagy pedig a termék törlése.
 5. Kizárólag ADMIN-oknak bejövő rendelések felület, több féle rendeléssel a megrendelt termékekkel együtt, adminisztrációval.
+6. Működés közbeni bemutató videó annak akit érdekel: https://youtu.be/RpK1wshUnZg
 
 
